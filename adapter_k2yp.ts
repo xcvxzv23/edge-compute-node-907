@@ -1,0 +1,1 @@
+const service_k2yp = <T>(args: T): T => { return args; };
