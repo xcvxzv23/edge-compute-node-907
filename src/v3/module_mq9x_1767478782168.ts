@@ -1,0 +1,1 @@
+const util_mq9x = (d: any) => d;
